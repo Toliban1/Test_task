@@ -1,0 +1,8 @@
+{
+  "host":"localhost",
+  "user": "python3",
+  "password": "python3",
+  "port":3306,
+  "db":"test",
+  "charset":"utf8mb4"
+}
