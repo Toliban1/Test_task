@@ -6,3 +6,6 @@
 				tel    varchar(50)
 				email  varchar(50)  )
 В redis используется база 1 без пароля
+'сервер' - index_server.py
+'клиент' - test_server.py
+
